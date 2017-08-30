@@ -6,13 +6,37 @@ h1 {
   text-align: center;
 }
 
+.links {
+  text-align: center;
+  font-size: 16px;
+  color: Aquamarine;
+}
+
 .background {
   background-color: black;
   text-align; center;
 }
 
-p, a {
+.resources {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
   text-align: center;
-  font-size: 16px;
-  color: Aquamarine;
+}
+
+.heading2 {
+  font-size: 42px;
+  font-weight: 300;
+  font-family: Verdana;
+}
+
+#copyright {
+  text-align: right;
+  color: Gray;
 }
